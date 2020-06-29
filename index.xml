@@ -6,19 +6,9 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2020 11:53:42 +1000</lastBuildDate>
     
 	<atom:link href="https://elton-ge.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Firstblog</title>
-      <link>https://elton-ge.github.io/post/firstblog/</link>
-      <pubDate>Mon, 29 Jun 2020 11:53:42 +1000</pubDate>
-      
-      <guid>https://elton-ge.github.io/post/firstblog/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
