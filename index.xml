@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Title</title>
+    <title>Welcome to Elton Code World</title>
     <link>https://elton-ge.github.io/</link>
-    <description>Recent content on Title</description>
+    <description>Recent content on Welcome to Elton Code World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Jun 2020 12:34:32 +1000</lastBuildDate>
