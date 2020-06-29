@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://elton-ge.github.io.git/post/firstblog/</loc>
+    <lastmod>2020-06-29T11:53:42+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elton-ge.github.io.git/</loc>
+    <lastmod>2020-06-29T11:53:42+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elton-ge.github.io.git/post/</loc>
+    <lastmod>2020-06-29T11:53:42+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elton-ge.github.io.git/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://elton-ge.github.io.git/tags/</loc>
+  </url>
+  
+</urlset>
